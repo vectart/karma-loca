@@ -1,6 +1,6 @@
 {
   "name": "karma-loca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loca Karma Framework that provides nice Mocha browser reports",
   "main": "index.js",
   "scripts": {
