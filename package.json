@@ -1,0 +1,30 @@
+{
+  "name": "karma-loca",
+  "version": "1.0.0",
+  "description": "Loca Karma Framework that provides nice Mocha browser reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/vectart/karma-loca",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vectart/karma-loca.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-framework",
+    "mocha",
+    "loca",
+    "webkit",
+    "console",
+    "reports",
+    "reporter",
+    "bdd"
+  ],
+  "author": "Marat Dyatko",
+  "license": "ISC",
+  "dependencies": {
+    "loca": "^1.0.1"
+  }
+}
